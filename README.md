@@ -21,4 +21,4 @@
 # To Run
 `npm run dev`
 
-- [Live Site](https://axios-api-crud-8161.netlify.app/)
+- [Live Site](https://axios-crud-eight.vercel.app/)
